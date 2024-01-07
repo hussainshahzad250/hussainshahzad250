@@ -13,7 +13,8 @@
 - 🔭 I’m currently working at [SAS TECH STUDIO PVT LTD](https://www.linkedin.com/company/finncub/mycompany/) where we were [Finncub product](https://www.linkedin.com/company/finncub/mycompany/).
 - 🌱 I’m passionate about [AWS Services](https://docs.aws.amazon.com/) like [serverless in AWS](https://aws.amazon.com/serverless/) and many more.
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
-- ⚡ Fun fact: I read books, play the piano, and sleep with my dog!
+
+[comment]: <> (- ⚡ Fun fact: I read books, play the piano, and sleep with my dog!)
 
 <div align="center">
 
